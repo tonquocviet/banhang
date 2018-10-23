@@ -1,0 +1,1 @@
+<a href="{{route('sendtomail',[$nguoidung-> id, csrf_token()])}}">Nhấn vào đây để kích hoạt tài khoản</a>
